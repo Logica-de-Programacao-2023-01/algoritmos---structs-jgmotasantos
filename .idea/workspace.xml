@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c7b4fa8-8b98-4700-ad27-dce24c635555" name="Changes" comment="" />
+    <list default="true" id="8c7b4fa8-8b98-4700-ad27-dce24c635555" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Structscasa05.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structscasa06.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structscasa07.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structscasa08.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structscasa09.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structscasa10.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structscasa04.go" beforeDir="false" afterPath="$PROJECT_DIR$/Structscasa04.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +26,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../Program Files/Go" />
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.20.2" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -28,27 +37,30 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PVi1FBbEkC325yHrFAQKyLmhtQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go Application",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/motajoao41/repos/algoritmos---structs-jgmotasantos",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/motaj/repos/algoritmos---structs-jgmotasantos&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Go Build.go build Structscasa03.go">
+}</component>
+  <component name="RunManager" selected="Go Build.go build Structscasa05.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="algoritmos---structs-jgmotasantos" />
       <working_directory value="$PROJECT_DIR$" />
@@ -82,6 +94,14 @@
       <filePath value="$PROJECT_DIR$/Structscasa03.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build Structscasa05.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---structs-jgmotasantos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Structscasa05.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build Stucts2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---structs-jgmotasantos" />
       <working_directory value="$PROJECT_DIR$" />
@@ -102,9 +122,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Structscasa05.go" />
+        <item itemvalue="Go Build.go build Structscasa01.go" />
         <item itemvalue="Go Build.go build Structscasa03.go" />
         <item itemvalue="Go Build.go build Structscasa02.go" />
-        <item itemvalue="Go Build.go build Structscasa01.go" />
         <item itemvalue="Go Build.go build Stucts2.go" />
       </list>
     </recent_temporary>
